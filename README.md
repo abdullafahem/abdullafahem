@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*V7jiZvQBIwUhUY_9VU8Jqg.jpeg)](https://www.fahemdev.com)
+[![MasterHead](https://miro.medium.com/max/1136/1*c212PtnJILZsdRK7bcw6rQ.png)](https://www.fahemdev.com)
 <h1 align="center">Hi 👋, I'm Abdulla Fahem</h1>
 <h3 align="center">A passionate full stack developer from Albania</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel Projects**
 
-- 💬 Ask me about **HTML, CSS, Laravel, ReactJs, Javascript**
+- 💬 Ask me about **HTML, CSS, Laravel, ReactJs, Javascript, PHP**
 
 - 📫 How to reach me **abdullaf2019@outlook.com**
 
