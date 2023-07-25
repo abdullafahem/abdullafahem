@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1136/1*c212PtnJILZsdRK7bcw6rQ.png)](https://www.fahemdev.com)
+[![MasterHead]([https://miro.medium.com/max/1136/1*c212PtnJILZsdRK7bcw6rQ.png](https://res.cloudinary.com/practicaldev/image/fetch/s--JHCnUuat--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/adcvmgs9lja0i6f1u1p3.jpg))](https://www.fahemdev.com)
 <h1 align="center">Hi 👋, I'm Abdulla Fahem</h1>
 <h3 align="center">A passionate full stack developer from Albania</h3>
 
