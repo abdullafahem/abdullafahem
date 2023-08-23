@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulla Fahem=====================================================================================================================================Web Developer-------------🌐 Crafting Digital Experiences with Code: Turning Coffee into Code, One Line at a Time. Frontend fanatic, backend virtuoso, and passionate problem solver on a mission to build the web of tomorrow. Let's turn ideas into interactive reality! 🚀👨‍💻* 🌍  I'm based in Tirana, Albania* ✉️  You can contact me at [abdullaf2019@outlook.com](mailto:abdullaf2019@outlook.com)* 🧠  I'm learning .NET and TypeScript
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulla Fahem=====================================================================================================================================
+Web Developer
+-------------
+🌐 Crafting Digital Experiences with Code: Turning Coffee into Code, One Line at a Time. Frontend fanatic, backend virtuoso, and a passionate problem solver on a mission to build the web of tomorrow. Let's turn ideas into interactive reality! 🚀👨‍💻
+* 🌍  I'm based in Tirana, Albania
+* ✉️  You can contact me at [abdullaf2019@outlook.com](mailto:abdullaf2019@outlook.com)
+* 🧠  I'm learning .NET and TypeScript
 
 <a href="https://www.github.com/abdullafahem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdullafahem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
