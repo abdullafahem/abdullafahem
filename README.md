@@ -7,9 +7,6 @@
 - ✉️  You can contact me at [abdullaf2019@outlook.com](mailto:abdullaf2019@outlook.com)  
   
 
-- 🌱 I’m currently learning .NET and TypeScript  
-  
-
 <br/>  
 
 
