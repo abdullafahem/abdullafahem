@@ -1,7 +1,7 @@
 ### <div align="center">I'm Abdulla Fahem, a web developer 👨‍💻 </div>  
   
 
-- 🌍  I'm based in Tirana, Albania  
+- 🌍  I'm based in Madinah, Saudi Arabia  
   
 
 - ✉️  You can contact me at [abdullaf2019@outlook.com](mailto:abdullaf2019@outlook.com)  
