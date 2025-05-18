@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdulla Fahem and I'm a Full-Stack Developer, from Albania</h2>
+<h2 align="left">Hi 👋! My name is Abdulla Fahem and I'm a Software Engineer, from Albania</h2>
 
 ###
 
